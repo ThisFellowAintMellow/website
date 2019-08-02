@@ -8,20 +8,22 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50vw ;
+    width: 60vw ;
 }
 div {
     background-size:6.25vw;
     color: white;
     margin: 0 auto;
-    width: 50vw;
-    padding-top:17.5px;
-    padding-bottom:17.5px;
+    width: 60vw;
+    padding-top:10px;
+    padding-bottom:auto;
     font-family: sans-serif;
     
 }
 .title {
-    background-image: url("cobblestone_block.png");
+    background-image: url("grass_block.png");
+    background-size:6.25vw;
+    background-repeat: repeat-x;
     color: white;
 
 }
