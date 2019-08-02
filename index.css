@@ -1,0 +1,31 @@
+
+body {
+    background-image: url("dirt_block.jpg");
+    background-color: black;
+    background-size: 6.25vw, 6.25vh;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vw ;
+}
+div {
+    background-size:6.25vw;
+    color: white;
+    margin: 0 auto;
+    width: 50vw;
+    padding-top:17.5px;
+    padding-bottom:17.5px;
+    font-family: sans-serif;
+    
+}
+.title {
+    background-image: url("cobblestone_block.png");
+    color: white;
+
+}
+.textback{
+    background-image: url("stone_block.jpg");
+    
+}
