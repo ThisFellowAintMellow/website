@@ -24,6 +24,15 @@ body {
 
     
 }
+.textboxbottom{
+  color: white;
+  border-bottom:none;
+  margin: 0 auto;
+  font-family: sans-serif;
+  text-align: center;
+  width:65vw ;
+  padding-bottom: 50px;
+}
 .title {
     font-family: sans-serif;
     margin: 0 auto;
