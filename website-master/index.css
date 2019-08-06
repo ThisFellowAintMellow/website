@@ -32,8 +32,54 @@ body {
 
 }
 .textback{
-    border-radius:10%;
+    border-radius:5%;
     background-image: linear-gradient(cornflowerblue, midnightblue);
     width: 60vw;
     margin: 0 auto;
 }
+li {
+    float: left;
+    
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: skyblue;
+    left:50%;
+    left:50%
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    overflow: hidden;
+    text-decoration: none;
+  }
+  li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  li a:hover {
+    background-color:cornflowerblue;
+    color: white;
+  }
+  .currentpage {
+    background-color: cornflowerblue;
+    color: white;
+  }
+  .topnav{
+    font-family: sans-serif;
+    background-color: cornflowerblue;
+  }
+  .intextlink{
+      background: none;
+      display: inline;
+      padding:0;
+  }
